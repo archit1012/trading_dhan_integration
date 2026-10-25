@@ -1,0 +1,8 @@
+dhanhq #  direct broker API (dhanhq) for trading equities, futures, and options
+mibian
+pandas
+pytz
+requests
+ta-lib
+dotenv
+Dhan-Tradehull #(or the Tradehull Python library) is a third-party Python wrapper and algorithmic education/tooling platform built on top of Dhan's official API to help retail traders build and run trading bots
